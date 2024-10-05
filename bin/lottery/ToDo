@@ -1,0 +1,9 @@
+remove the sysout
+comment the code
+generate the javadoc
+
+
+if you like to test if the prog's working feel free to :
+--> fix the winning nb in the Tolo class
+--> fix the lucky nb in the SuperBet class
+
